@@ -316,6 +316,9 @@ Cara ganti:
 
 ---
 
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jpXproject/PerformanceRoblox/refs/heads/main/RobloxLightweightTools.lua"))()
+```
 ## 🔧 Troubleshooting
 
 ### ❌ UI Muncul 2x (Double)
